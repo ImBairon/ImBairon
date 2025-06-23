@@ -1,4 +1,6 @@
-<h1 align="center"><b>Hi , I'm Bairon Díaz </b><img src="https://discords.com/_next/image?url=https://cdn.discordapp.com/emojis/1172947536810627172.gif&w=96&q=75"></h1>
+
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=34&pause=1000&color=155CF7&width=435&lines=Hi+%2C+I'm+Bairon+D%C3%ADaz" alt="Typing SVG" /></a>
+<img src="https://discords.com/_next/image?url=https://cdn.discordapp.com/emojis/1172947536810627172.gif&w=96&q=75"></h1>
 <!--  -->
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
@@ -7,13 +9,12 @@
 I'm a systems engineering student, completing my degree. I'm expanding my knowledge in front-end and back-end development., and I’m driven by a deep curiosity to build meaningful, efficient, and innovative solutions through creative thinking and continuous learning.
 - 🌱 I’m currently learning ...
   
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  - React
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
-- 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
-- 📫 Reach out to me at: <a href="valenwerlecontacto@gmail.com">valenwerlecontacto@gmail.com</a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+- I’m looking forward to collaborate on open source projects.
+- Ask me about anything, I am happy to help<br>
+
+- Outside tech, 🎨 I love design in my free time, 🎮 playing videogames, 🎵 listening to music.
+- 📫 Reach out to me at: <a href="baironft10@gmail.com">baironft10@gmail.com</a>
 
 ## My Skills Include
 
@@ -37,7 +38,7 @@ I'm a systems engineering student, completing my degree. I'm expanding my knowle
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-
+  <img src= "https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white">
 
 
 
@@ -45,16 +46,10 @@ I'm a systems engineering student, completing my degree. I'm expanding my knowle
 
 ## Check out my Social Media
 
-<a href= "https://www.instagram.com/valenwerle/?hl=es">
+<a href= "https://www.instagram.com/imbairon.zd/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://www.tiktok.com/@vapixel_" >
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok">
-</a>
-<a href="https://www.twitch.tv/valenwerle" >
-  <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
-</a>
-<a href="https://www.youtube.com/@ValenWerle">
+<a href="https://www.youtube.com/@imbairon6920">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
 </a>
 <br>
