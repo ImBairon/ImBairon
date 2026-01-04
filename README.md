@@ -26,9 +26,9 @@ I'm expanding my knowledge in **frontend and backend development**, and I’m dr
 
 <p align="center">
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,figma" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,figma" /><br>
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,java,python,arduino,nodered" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,arduino,nodered" /><br>
   <!-- Databases / Cloud -->
   <img src="https://skillicons.dev/icons?i=postgres,firebase,azure" /><br>
   <!-- Tools & Productivity -->
